@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Catroid #
 
 **Catroid** is a visual coding IDE and interpreter for Android for the Catrobat programming language.
@@ -36,3 +37,6 @@ A first training ticket usually consists of writing a new Catrobat language test
 
 # License #
 [License](https://catrob.at/licenses) of our project (mainly AGPL v3).
+=======
+# Rock-Paper-Scissors-With-AI
+>>>>>>> b36c506023b5007bb737db8f5582725959327802
